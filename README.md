@@ -21,7 +21,7 @@ Snippets for sublime support REI Cedar markup
 
 ## Documentation and usage
 
-Documentation with code examples and the snippet shortcut string can be found [here](https://rei.github.io/rei-cedar-sublime-snippets/ "Cedar Sublime Docs").
+Documentation with code examples and the snippet shortcut string can be found [here](https://rei.github.io/rei-cedar-sublime-snippets/ "Cedar Sublime Docs"). Names map almost directly to what is used on the patterns site if you need to refer to usage or notes about the markup.
 
 Completion can be fuzzy typed once auto complete is opened with <kbd>Ctrl</kbd> + <kbd>Space</kbd>
 
