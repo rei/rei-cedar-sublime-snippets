@@ -19,6 +19,22 @@ Snippets for sublime support REI Cedar markup
 
 7. After the package installs, restart Sublime Text.
 
+## Documentation and usage
+
+Documentation with code examples and the snippet shortcut string can be found [here](https://rei.github.io/rei-cedar-sublime-snippets/ "Cedar Sublime Docs").
+
+Completion can be fuzzy typed once auto complete is opened with <kbd>Ctrl</kbd> + <kbd>Space</kbd>
+
+
+Example:
+Inline list with feature links `(list-inline-feature-link)` -- you don't need to type out that long name to get it.
+
+1. Type `li`
+2. Press <kbd>Ctrl</kbd> + <kbd>Space</kbd> to bring up auto complete for matching snippet names that begin with `li`.
+3. Keep typing other parts of the name such as: `in` for inline or `fea` for feature.
+4. If you see it in the list you can use the arrow keys to select it or keep typing until you get down to just the one.
+5. Press <kbd>Enter</kbd> to trigger the snippet expansion.
+
 ## Updating
 
 If there are updates, they will be automatically applied at startup.
